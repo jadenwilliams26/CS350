@@ -41,7 +41,7 @@ Threading and concurrency: Running a background task (LCD management) while the 
 
 Modular coding: Breaking up code into classes and methods for better maintainability. <br /><br />
 
-#How did you make this project maintainable, readable, and adaptable?<br />
+# How did you make this project maintainable, readable, and adaptable?<br />
 
 Commenting and documentation: Extensive docstrings and inline comments explain both what the code is doing and why. <br />
 
@@ -57,7 +57,7 @@ Milestone 3: <br />
 This project involved building a Python program for a Raspberry Pi that simulates Morse code messages ("SOS" and "OK") using red and blue LEDs. The system toggles between messages using a button and uses a state machine to control the timing and signaling for dots, dashes, and pauses. An LCD screen displays the current message being transmitted. <br />
 Problem it solved: It demonstrates how to use GPIO, threading, and state machines to implement time-sensitive LED-based signaling—helpful in learning how embedded systems communicate in constrained environments. <br /><br />
 
-#What did you do particularly well?<br />
+# What did you do particularly well?<br />
 
 State machine design: Clear states for dot, dash, inter-symbol, inter-letter, and inter-word pauses made the logic both robust and extensible.<br />
 
